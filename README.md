@@ -10,22 +10,23 @@ The biggest challenge for me in this project was properly creating the writeToFi
 
 ## Installation/Usage
 
-When in terminal or equivelent, be sure to `cd` into the proper folder (Develop) with the index.js.
-Run `node index.js` in the Develop folder to begin. 
-As prompted, provide the title of your project.
-As prompted, Provide the description of your project.
-As prompted, answer Yes or No in creating a Table of Contents.
-As prompted, describe the installation process for your project.
-As prompted, describe the usgae of your project.
-As prompted, select one of the provided options or none for the license of your project.
-As prompted, describe how others and contribute to this project.
-As prompted, describe what tests have been run on this project. 
-As prompted, provide your github username and/or url for questions. 
-As prompted, provide your email address for questions. 
-The new README file will be generated and can be found in the Develop folder.
+1. When in terminal or equivelent, be sure to `cd` into the proper folder (Develop) with the index.js.
+2. Run `node index.js` in the Develop folder to begin. 
+3. As prompted, provide the title of your project.
+4. As prompted, Provide the description of your project.
+5. As prompted, answer Yes or No in creating a Table of Contents.
+6. As prompted, describe the installation process for your project.
+7. As prompted, describe the usgae of your project.
+8. As prompted, select one of the provided options or none for the license of your project.
+10. As prompted, describe how others and contribute to this project.
+11. As prompted, describe what tests have been run on this project. 
+12. As prompted, provide your github username and/or url for questions. 
+13. As prompted, provide your email address for questions. 
+14. The new README file will be generated and can be found in the Develop folder.
 
 ## Links
 
+GitHub Link: https://github.com/phlipadelphia/READMEmaker
 
 ## Credits
 
